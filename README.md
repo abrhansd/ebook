@@ -1,5 +1,5 @@
 # 🚀 Landing Page - Domine sua Rotina com IA
-
+https://abrhansd.github.io/ebook/
 Este repositório contém o código-fonte de uma Landing Page de alta conversão desenvolvida especificamente para a venda do e-book **"Domine-sua-rotina-programe-menos-e-produza-o-dobro-com-IA.pdf.pdf"**. 
 
 O site foi desenhado com uma estética moderna e futurista, utilizando gatilhos mentais e dados extraídos diretamente do conteúdo do guia para maximizar as conversões de venda.
